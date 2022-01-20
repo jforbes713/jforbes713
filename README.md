@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jforbes713
+- 👀 I’m interested in learning how to code
+- 🌱 I’m currently learning C and C#
+- 💞️ I’m not looking to collaborate on anything...yet!
